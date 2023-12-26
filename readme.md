@@ -7,7 +7,7 @@ This project is part of Data Competition on Data Science Weekend 2023 by Data Sc
 To make the project easier to navigate We used PACE framework which stands for Plan, Analyze, Construct, and Execute. This framework helps to overcome the complexity of the project and finding consistent ways to work together and enable more productive communication.
 
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/x8PORxRWQIGwQ-aNdgPl-g_7853d685bdea44489c0039b91597c4f1_PACE-workflow.png?expiry=1703548800000&hmac=BoRiG7_XX8G1mgXz2bXC83hJELNEKSN7rxC2MtttNY8)
+![](assets/pace-framework.png)
 
 ### Plan
 #### Business Understanding
